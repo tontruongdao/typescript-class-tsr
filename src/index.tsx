@@ -8,3 +8,5 @@ class App extends React.Component {
 }
 
 ReactDOM.render(<App/>, document.querySelector('#root'))
+
+// Used ```npx create-react-app my-app --template typescript``` to create ts App
